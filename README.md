@@ -1,0 +1,6 @@
+# otel_clickup
+
+OpenTelemetry bridge for ClickUp REST API.
+
+Part of the Dartastic Pro bridges family. See https://dartastic.io for the full
+integration catalog and license terms.
